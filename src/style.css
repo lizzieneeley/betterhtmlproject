@@ -19,6 +19,7 @@ li{
 
 p{
     font-style: italic;
+    font-size: 10px;
 }
 
 footer{
@@ -36,4 +37,8 @@ hr{
 
 main{
     background-color: #CAF0F8;
+}
+
+.ending{
+    font-size: 15px;
 }
