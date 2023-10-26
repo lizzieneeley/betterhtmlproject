@@ -1,0 +1,39 @@
+/*all new*/
+h1{
+    color:#03045E;
+    font-family: 'Sen';
+}
+
+h3{
+    font-family: Itim;
+    color: #05078f;
+    font-size: 20px;
+}
+
+li{
+    list-style-type: square; 
+    font-size: 15px;
+    color: #0077B6;
+    font-family: 'Sen';
+}
+
+p{
+    font-style: italic;
+}
+
+footer{
+    font-style: bolder;
+    font-family: 'Sen';
+}
+
+img{
+    width: 300px;
+}
+
+hr{
+    border: solid 1.5px lightskyblue
+}
+
+main{
+    background-color: #CAF0F8;
+}
